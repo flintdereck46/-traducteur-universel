@@ -8,7 +8,7 @@
 <body>
     <h1>Bienvenue dans le Traducteur Universel</h1>
     <form>
-        <label for="inputText">Entrez votre texte à traduire :</label><br>
+        <label for="inputText">Entrez votre texte Ã  traduire :</label><br>
         <textarea id="inputText" rows="4" cols="50"></textarea><br><br>
         <button type="button" onclick="translateText()">Traduire</button>
     </form>
